@@ -120,15 +120,9 @@ Feel free to contribute by submitting issues or pull requests. For major changes
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or feedback, please reach out to [your.email@example.com](mailto:your.email@example.com).
-
-```
 
 ### Key Points
 
 - The README.md provides a comprehensive overview of the Streamlit application, including installation instructions, usage details, and explanations of the main features.
 - It includes code snippets and examples to help users understand how to interact with the application.
 - It outlines the methods used for handling missing values, detecting and removing outliers, and encoding categorical variables.
-
