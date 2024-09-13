@@ -1,5 +1,3 @@
-Certainly! Here's a README.md file formatted in Markdown for documenting the Streamlit application that includes data preprocessing, outlier handling, and encoding methods.
-
 ```markdown
 # Streamlit Data Preprocessing Application
 
@@ -134,4 +132,3 @@ For any questions or feedback, please reach out to [your.email@example.com](mail
 - It includes code snippets and examples to help users understand how to interact with the application.
 - It outlines the methods used for handling missing values, detecting and removing outliers, and encoding categorical variables.
 
-Feel free to adjust any sections or add additional details as needed. If you have more questions or need further modifications, let me know!
